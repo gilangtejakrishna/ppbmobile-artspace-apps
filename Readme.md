@@ -1,6 +1,3 @@
-Berikut adalah pembahasan singkat tentang fitur aplikasi ArtSpace yang sudah jadi:
-
----
 
 ### ArtSpace
 
